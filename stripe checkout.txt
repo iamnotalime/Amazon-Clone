@@ -1,0 +1,4 @@
+==STRIPE CHECKOUT==
+
+=> email : stefamanuel@gmail.com
+   pass : stefanusimanuel020700
